@@ -6,4 +6,4 @@ This code is designed for accessibility standards. The objective of prioritizing
 
 https://ndockman.github.io/semantic-html/
 
-![Screenshot of part of the webpage]('./assets/images/semantic_html_webpage_screenshot2023-03-24.png')
+![Screenshot of part of the webpage]('./semantic-html/assets/images/semantic_html_webpage_screenshot2023-03-24.png')
