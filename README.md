@@ -4,4 +4,6 @@ This code is designed for accessibility standards. The objective of prioritizing
 
 ## Link to the Production Version
 
-![Screenshot of part of the webpage]('./assets/images/semantic_html_webpage_screenshot2023-03-24.png)
+https://ndockman.github.io/semantic-html/
+
+![Screenshot of part of the webpage]('./assets/images/semantic_html_webpage_screenshot2023-03-24.png')
